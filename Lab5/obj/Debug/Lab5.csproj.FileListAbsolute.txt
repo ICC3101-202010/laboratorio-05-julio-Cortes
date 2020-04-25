@@ -1,0 +1,7 @@
+C:\Users\jick\Desktop\P.O.O\laboratorio-05-julio-Cortes\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\jick\Desktop\P.O.O\laboratorio-05-julio-Cortes\Lab5\bin\Debug\Lab5.exe
+C:\Users\jick\Desktop\P.O.O\laboratorio-05-julio-Cortes\Lab5\bin\Debug\Lab5.pdb
+C:\Users\jick\Desktop\P.O.O\laboratorio-05-julio-Cortes\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\Users\jick\Desktop\P.O.O\laboratorio-05-julio-Cortes\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\jick\Desktop\P.O.O\laboratorio-05-julio-Cortes\Lab5\obj\Debug\Lab5.exe
+C:\Users\jick\Desktop\P.O.O\laboratorio-05-julio-Cortes\Lab5\obj\Debug\Lab5.pdb
